@@ -20,7 +20,3 @@ Should be:
         fetch = +refs/heads/*:refs/remotes/origin/*
         url = ssh://git@github.com/gjcenten/hello-world.git
 
-This doesn't work behind a proxy from a VBox VM !
-
-01-09-2018:
-Added pub ssh key for oberon
